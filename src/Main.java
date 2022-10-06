@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("привет мир!");
         double dog = 8.0;
         System.out.println(dog);
         double cat = 3.6;
